@@ -10,7 +10,7 @@ export const metadata = {
   keywords: ['texnika', 'arzon texnika', 'sifatli texnika'],
 };
 
-export const SalesCategory = [
+const SalesCategory = [
   'Все',
   'Смартфоны',
   'Стиральные машины',
