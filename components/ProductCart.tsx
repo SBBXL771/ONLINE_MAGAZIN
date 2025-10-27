@@ -82,7 +82,7 @@ const ProductCart: FC<ProductType> = ({
               category,
             })
           }
-          className="bg-primary text-white py-2.5 w-full rounded-xl"
+          className="bg-primary text-white py-2.5 w-full rounded-xl hover:bg-primary/90 transition-colors mt-2 font-semibold"
         >
           В корзину
         </button>
